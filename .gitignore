@@ -1,0 +1,6 @@
+/.vscode
+/dags
+/logs
+/plugins
+/docker-compose.yaml
+.env
